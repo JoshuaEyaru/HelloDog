@@ -3,4 +3,5 @@
 
 #Submitted by Joshua
 
-#Note: I couldn't get access to the courses.codepath.com to copy the detailed readme
+walkthrough.gif
+
