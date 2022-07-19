@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="josh_introduction">Hello, I\'m Josh, developing a dating app for animals</string>
+    <string name="say_hellobutton">SAY Hello</string>
+</resources>
